@@ -1,0 +1,13 @@
+# Maven 编译产物
+target/
+
+# IntelliJ IDEA 本机配置
+.idea/
+*.iml
+
+# 日志
+*.log
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
